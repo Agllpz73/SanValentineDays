@@ -1,14 +1,14 @@
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Segura?",
+    "Segurisimaaaaa??",
+    "Estas completamente segura??",
+    "Por favorcitoooo mi amorcitooooo...",
+    "Piensalooooo, te conviene!",
+    "Si dices que no, me voy a sentir muy triste...",
+    "Estare muy tristeeee....",
+    "Me voy a sentir muy mal si dices que nooooo...",
+    "Ok, esta es la ultima oportunidad para decir que no...",
+    "Puedes decir que no, pero recuerda que te amo mucho y quiero pasar el resto de mi vida contigo... ❤️"
 ];
 
 let messageIndex = 0;
